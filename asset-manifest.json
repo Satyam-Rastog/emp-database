@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emp-database/static/css/main.d15022e8.css",
+    "main.js": "/emp-database/static/js/main.a520183b.js",
+    "static/js/787.7f5047f9.chunk.js": "/emp-database/static/js/787.7f5047f9.chunk.js",
+    "index.html": "/emp-database/index.html",
+    "main.d15022e8.css.map": "/emp-database/static/css/main.d15022e8.css.map",
+    "main.a520183b.js.map": "/emp-database/static/js/main.a520183b.js.map",
+    "787.7f5047f9.chunk.js.map": "/emp-database/static/js/787.7f5047f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15022e8.css",
+    "static/js/main.a520183b.js"
+  ]
+}
